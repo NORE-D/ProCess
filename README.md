@@ -4,4 +4,5 @@ ProCess it's a tool for scaning ports in your computer to know where you are con
 git clone https://github.com/NORE-D/ProCess.git <br>
 cd ProCess.git <br>
 sudo bash install.sh <br>
-bash ProCess.sh <br>
+# Usage
+bash ProCess.sh
