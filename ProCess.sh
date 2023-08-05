@@ -20,7 +20,7 @@ function logo(){
 	sleep 6
 	clear
 }
-actualizacion_cada=10  # Tiempo en segundos para la actualización
+actualizacion_cada=10 
 contador=0
 clear
 logo
